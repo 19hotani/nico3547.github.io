@@ -1,0 +1,168 @@
+.projects-title-layout
+{
+  width: 98%;
+  margin-right: auto;
+  margin-left : auto;
+  margin-bottom : 5.0rem;
+}
+
+.projects-title
+{
+  text-align: left;
+  font-size: 23px;
+  font-weight: bold;
+  color: #007641;
+  margin-bottom: 0.5rem;
+  margin-left: 0.5rem;
+}
+
+.projects-title-date
+{
+  text-align: left;
+  font-size: 16px;
+  color: #AAAAAA;
+  margin-left: 0.6rem;
+}
+
+
+.projects-title-link
+{
+  color: #007641;
+}
+
+.projects-title-link:hover
+{
+  color: #005621;
+  text-decoration: underline dotted;
+}
+
+.projects-title-keywords
+{
+  text-align: left;
+  font-size: 16px;
+  color: #444444;
+  margin-left: 0.5rem;
+  margin-bottom : 3.0rem;
+}
+
+.projects-title-abstract
+{
+  text-align: left;
+  font-size: 17px;
+  color: #000000;
+  margin-left: 0.5rem;
+}
+
+
+
+
+
+.projects-body-layout
+{
+  width: 98%;
+  margin-right: auto;
+  margin-left : auto;
+}
+
+
+.projects-section
+{
+  margin-bottom: 5.0rem;
+}
+
+
+
+.projects-sub-title
+{
+  text-align: left;
+  font-size: 20px;
+  font-weight: bold;
+  color: #000000;
+  margin-bottom: 0.5rem;
+  margin-left: 0.5rem;
+}
+
+.projects-sub-title-link
+{
+  color: #000000;
+  text-decoration: underline dotted;
+}
+
+.projects-sub-title-link:hover
+{
+  color: #004611;
+}
+
+.projects-body
+{
+  text-align: left;
+  font-size: 17px;
+  color: #000000;
+  margin-bottom: 0.5rem;
+  margin-left: 0.5rem;
+}
+
+.projects-body-link
+{
+  color: #000000;
+  text-decoration: underline;
+}
+
+.projects-body-link:hovor
+{
+  color: #111111;
+  text-decoration: underline dotted;
+}
+
+.projects-body-strong
+{
+  color: #006441;
+}
+
+.projects-image-layout
+{
+  margin-top: 3.0rem;
+  margin-bottom: 3.0rem;
+}
+
+.projects-image
+{
+  width: 100%;
+  text-align: center;
+  margin:0 auto;
+}
+
+
+
+
+
+.projects-link
+{
+  color: #058c36;
+  text-decoration: none;
+}
+
+.projects-link:link
+{
+  color: #058c36;
+  text-decoration: none;
+}
+
+.projects-link:visited
+{
+  color: #058c36;
+  text-decoration: none;
+}
+
+.projects-link:hover
+{
+  color: #005920;
+  text-decoration: underline dotted;
+}
+
+.projects-link:hover
+{
+  color: #005920;
+  text-decoration: underline dotted;
+}
+
