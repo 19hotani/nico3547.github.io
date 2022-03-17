@@ -4,7 +4,7 @@ import { HomeComponent } from './home/home.component';
 import { ProfileComponent } from './profile/profile.component';
 import { ProjectsModule } from './projects/projects.module';
 import { PublicationsComponent } from './publications/publications.component';
-import { GalleriesModule } from './galleries/galleries.module';
+// import { GalleriesModule } from './galleries/galleries.module';
 import { OthersModule } from './others/others.module';
 
 const routes: Routes = [
@@ -36,7 +36,6 @@ const routes: Routes = [
       ogUrl: 'https://youseegreen.github.io/publications'
     }
   },
-  { path: 'galleries', loadChildren: './galleries/galleries.module#GalleriesModule' },
   { path: 'others', loadChildren: './others/others.module#OthersModule' },
 ];
 
